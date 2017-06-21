@@ -1,0 +1,10 @@
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\bin\Debug\TCPIPProject.exe.config
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\obj\Debug\TCPIPProject.csprojResolveAssemblyReference.cache
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\obj\Debug\TCPIPProject.Properties.Resources.resources
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\obj\Debug\TCPIPProject.csproj.GenerateResource.Cache
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\obj\Debug\TcpIpProject.Form1.resources
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\bin\Debug\TCPIPProject.exe
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\bin\Debug\TCPIPProject.pdb
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\bin\Debug\SimpleTCP.dll
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\obj\Debug\TCPIPProject.exe
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPProject\obj\Debug\TCPIPProject.pdb

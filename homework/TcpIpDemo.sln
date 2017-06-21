@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPProject", "TCPIPProject\TCPIPProject.csproj", "{DC7F6AE1-1823-4EB3-BA78-DF82560E42DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPIPClient", "TCPIPClient\TCPIPClient.csproj", "{9BC7A58F-6C72-49B9-92DF-BAC49990338C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7F6AE1-1823-4EB3-BA78-DF82560E42DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7F6AE1-1823-4EB3-BA78-DF82560E42DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7F6AE1-1823-4EB3-BA78-DF82560E42DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7F6AE1-1823-4EB3-BA78-DF82560E42DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC7A58F-6C72-49B9-92DF-BAC49990338C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC7A58F-6C72-49B9-92DF-BAC49990338C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC7A58F-6C72-49B9-92DF-BAC49990338C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC7A58F-6C72-49B9-92DF-BAC49990338C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

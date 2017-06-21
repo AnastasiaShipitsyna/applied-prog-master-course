@@ -1,0 +1,9 @@
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\obj\Debug\TCPIPClient.Properties.Resources.resources
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\obj\Debug\TCPIPClient.csproj.GenerateResource.Cache
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\bin\Debug\TCPIPClient.exe.config
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\bin\Debug\TCPIPClient.exe
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\bin\Debug\TCPIPClient.pdb
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\bin\Debug\SimpleTCP.dll
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\obj\Debug\TCPIPClient.exe
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\obj\Debug\TCPIPClient.pdb
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\TcpIpDemo\TCPIPClient\obj\Debug\TCPIPClient.Form1.resources
