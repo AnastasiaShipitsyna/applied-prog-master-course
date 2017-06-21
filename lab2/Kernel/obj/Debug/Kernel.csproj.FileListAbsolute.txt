@@ -1,0 +1,16 @@
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Resolver.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Resolver.pdb
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Interface.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\JsonExporter.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\TxtExporter.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\XlsExporter.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Interface.pdb
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\JsonExporter.pdb
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\TxtExporter.pdb
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\XlsExporter.pdb
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Kernel.csprojResolveAssemblyReference.cache
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.pdb

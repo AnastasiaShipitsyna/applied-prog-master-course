@@ -1,0 +1,14 @@
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Entity\bin\Debug\Exporter.Entity.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Entity\bin\Debug\Exporter.Entity.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Entity\bin\Debug\Exporter.Interface.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Entity\bin\Debug\Exporter.Interface.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Entity\obj\Debug\Exporter.Entity.csprojResolveAssemblyReference.cache
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Entity\obj\Debug\Exporter.Entity.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Entity\obj\Debug\Exporter.Entity.pdb
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Entity\bin\Debug\Exporter.Entity.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Entity\bin\Debug\Exporter.Entity.pdb
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Entity\bin\Debug\Exporter.Interface.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Entity\bin\Debug\Exporter.Interface.pdb
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Entity\obj\Debug\Exporter.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Entity\obj\Debug\Exporter.Entity.dll
+C:\Users\Настюша\Downloads\applied-prog-master-course-master\applied-prog-master-course-master\lab2\ExporterLab\Exporter.Entity\obj\Debug\Exporter.Entity.pdb
