@@ -1,0 +1,10 @@
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\bin\Debug\SummatorClient.exe
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\bin\Debug\SummatorClient.pdb
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\bin\Debug\SummatorRemoteService.dll
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\bin\Debug\SummatorRemoteService.pdb
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\obj\Debug\SummatorClient.csprojResolveAssemblyReference.cache
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\obj\Debug\SummatorClient.Form1.resources
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\obj\Debug\SummatorClient.Properties.Resources.resources
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\obj\Debug\SummatorClient.csproj.GenerateResource.Cache
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\obj\Debug\SummatorClient.exe
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorClient\obj\Debug\SummatorClient.pdb

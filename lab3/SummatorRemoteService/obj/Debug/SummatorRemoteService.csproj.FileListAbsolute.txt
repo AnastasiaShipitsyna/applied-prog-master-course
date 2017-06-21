@@ -1,0 +1,5 @@
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorRemoteService\bin\Debug\SummatorRemoteService.dll
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorRemoteService\bin\Debug\SummatorRemoteService.pdb
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorRemoteService\obj\Debug\SummatorRemoteService.csprojResolveAssemblyReference.cache
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorRemoteService\obj\Debug\SummatorRemoteService.dll
+C:\Users\Настюша\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorRemoteService\obj\Debug\SummatorRemoteService.pdb
